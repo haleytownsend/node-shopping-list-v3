@@ -24,5 +24,6 @@
     "hyperdev",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "author": ""
 }
